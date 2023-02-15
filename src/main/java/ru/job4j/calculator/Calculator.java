@@ -13,7 +13,7 @@ public class Calculator {
     }
 
     public static void main(String[] args) {
-        plus(1,2);
-        minus(5,3);
+        plus(1, 2);
+        minus(5, 3);
     }
 }
