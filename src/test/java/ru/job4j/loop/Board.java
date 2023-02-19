@@ -19,4 +19,5 @@ public class Board {
         System.out.println();
         paint(4, 4);
     }
+
 }
